@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: darshanarajput
+Build-Jdk: 11.0.1
+Implementation-Title: SalesTaxProblem
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.boku
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SalesTaxProblem
+Created-By: Maven Integration for Eclipse
+

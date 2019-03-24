@@ -1,0 +1,5 @@
+1 book, 12.49
+1 music CD,, 14.99
+1 chocolate bar is 0.85
+1 imported box of chocolates, 10.00
+1 imported bottle of perfume CD, t , 47.50
